@@ -3,6 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
+"""
+References: https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
+"""
+
 def find_histogram(clt):
     """
     create a histogram with k clusters
@@ -73,4 +77,3 @@ while(True):
 cap.release()
 cv2.destroyAllWindows()
 
-# References: https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097

@@ -1,0 +1,14 @@
+Part 1:
+I chose the RGB color model over HSV, as I read that it was more intuitive for computers to use. Additionally, I chose a fairly large threshold
+range to account for the different shades of blue of the object depending on lighting.
+
+Part 2:
+There is a really big difference in terms of the tracking ability of the object in different lighting, as shown by the Part 2 screenshots.
+
+Part 3:
+Changing the phone brightness had a large effect on whether the code could track the color. Once the phone's brightness exceeded a certain amount,
+it became very difficult for the program to track the colors.
+
+Part 4:
+I noticed that changing the brightness of the phone had much larger effects on the "dominant" color than changing the background brightness.
+These results can be seen in the Part 4 screenshots.

@@ -2,6 +2,11 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
+"""
+References:
+https://ckyrkou.medium.com/color-thresholding-in-opencv-91049607b06d
+"""
+
 cap = cv2.VideoCapture(0)
 
 while(True):
@@ -35,5 +40,3 @@ while(True):
 # When everything done, release the capture
 cap.release()
 cv2.destroyAllWindows()
-
-# References: https://ckyrkou.medium.com/color-thresholding-in-opencv-91049607b06d
