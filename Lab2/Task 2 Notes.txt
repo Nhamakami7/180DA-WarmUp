@@ -1,0 +1,11 @@
+Task 2.
+a. Some things that we can do with speech recognition in our project include:
+- Using speech as an input to select a move in a game.
+- Using speech as a means of interacting with an NPC.
+
+b. I don't think it's reasonable for our speech recognition to be too complicated, simply due to issues with differentiating between similar sounding words or phrases.
+
+c. One idea our team is thinking of is making a turn-based game, which would make quick speech recognition less important, as there are no real-time actions being done.
+However, if we were to go the route of an action game, a missed or delayed recognition could greatly affect the game.
+
+d. The main condition for consistency would be a room with low noise levels while the game is on. I'm not entirely sure what hardware would be needed though.
